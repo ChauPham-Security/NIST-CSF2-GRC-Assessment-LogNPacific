@@ -9,7 +9,7 @@
 
 ## Overview
 
-This is a complete GRC engagement conducted for Log(N) Pacific, a cloud-hosted cybersecurity training platform built on Microsoft Azure. The assessment was performed against a live production environment — not a simulation or lab exercise — and the final deliverables were reviewed and accepted by Josh Madakor, owner of Log(N) Pacific.
+This is a complete GRC engagement conducted for Log(N) Pacific, a cloud-hosted cybersecurity training platform built on Microsoft Azure. The assessment was performed against a live production environment, and the final deliverables were reviewed and accepted by Josh Madakor, owner of Log(N) Pacific.
 
 The scope covers the company as a whole, including the Azure tenant, Entra ID, Microsoft Sentinel, Defender for Endpoint, Tenable, and the admin team's operational practices. Evidence was gathered from the Cyber Range Architecture and Engineering Document, direct responses from the business owner, publicly available platform information, and live inspection of the Azure environment.
 
