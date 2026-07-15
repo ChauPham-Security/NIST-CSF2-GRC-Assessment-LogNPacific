@@ -19,7 +19,7 @@ The scope covers the company as a whole, including the Azure tenant, Entra ID, M
 
 | File | Description |
 |------|-------------|
-| `NIST_CSF2_GapAssessment_LogNPacific.xlsx` | Full assessment workbook — maturity scores across 100+ controls, 20-entry risk register, dashboard, and remediation document register |
+| `NIST_CSF2_GapAssessment_LogNPacific.xlsx` | Full assessment workbook — maturity scores across 75+ controls, 20-entry risk register, dashboard, and remediation document register |
 | `LogNPacific_NIST_CSF2_ExecutiveSummary.docx` | Executive summary — key findings, priority risk table, and recommended next steps written for a non-technical business owner |
 | `LogNPacific_RS001_IncidentResponsePlan.docx` | Incident Response Plan — formal IRP based on NIST SP 800-61, covering the full incident lifecycle from detection through post-incident review |
 
