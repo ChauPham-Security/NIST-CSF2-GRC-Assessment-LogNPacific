@@ -5,6 +5,9 @@
 **Assessor:** Chau Pham, CISSP  
 **Date:** July 2026  
 
+<img src="assets/banner.svg" width="100%" alt="NIST CSF 2.0 GRC Assessment banner">
+
+
 ---
 
 ## Overview
